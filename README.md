@@ -9,11 +9,13 @@
 * Bestandslocatie: [github - diondresschers - OER-Associate-Degree-Computer-Science](https://github.com/openonderwijsorg/OER-Associate-Degree-Computer-Science)
 * Versie: 2020-10-18 10:43:15 
 
-# Doel
+# Project
+
+## Project - Doel
 
 Dit is een project waar het doel is om een Open Educational Resource (OER) curriculum voor een Associate Degree in Computer Science te realiseren, die gebruikt kan worden door formele scholen en individuen die geinsteresseerd zijn in computer technologie.
 
-# Taal 
+## Project - Taal 
 
 In eerste instantie wordt gericht op Nederlandstalige studenten. De voertaal van de Stichting Open Onderwijs Organisatie is Nederlands, omdat gericht wordt op een Nederlands publiek.
 
@@ -37,35 +39,76 @@ Het zal voor een Engelstalig persoon die geen Nederlans kent, makkelijk zijn om 
 ## Bronnen - Associate Degree
 
 * [Wat zijn bachelor, master en associate degree in het hoger onderwijs? | Rijksoverheid.nl](https://www.rijksoverheid.nl/onderwerpen/hoger-onderwijs/vraag-en-antwoord/wat-zijn-de-bachelor-master-en-associate-degree-in-het-hoger-onderwijs)
+* [Associate degree | MBO Raad](https://www.mboraad.nl/themas/doorstroom-mbo-hbo/associate-degree)
 
 ## Bronnen - Taal
 
 * [The CEFR Levels](https://www.coe.int/en/web/common-european-framework-reference-languages/level-descriptions))
 
+## Bronnen - Licentie
+
+* [Comparison of free and open-source software licences - Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licences)
+* [Creative Commons — CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+* [The Open Source Definition | Open Source Initiative](https://opensource.org/docs/osd)
+* [Open Educational Resources (OER)](https://en.unesco.org/themes/building-knowledge-societies/oer)
 
 # Licentie
 
+## Licentie - Curriculum
+
 * De tekst gemaakt van de Stichting Open Onderwijs Origanistie zal vallen onder de [Creative Commons — CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) licentie. Daarmee valt deze tekst onder Open Educational Resources.
+
+## Licentie - Curussen
 
 * De cursussen zullen vallen onder een Open Source licentie of een Creative Commons licentie. Het kan zijn dat materiaal niet aangepast mag worden of niet commercieel gebruikt kan worden. Hierdoor is het geen Open Source licentie. Uiteindelijk is het de bedoeling om alle cursussen Open Source te maken zodat het ook aan te passen is en commercieel te gebruiken. Het is de bedoeling om alle cursussen onder een licentie te laten vallen die goedgekeurd is door de [Free Software Foundation](https://www.fsf.org/). Een overzicht van vrije en Open Source licenties zijn hier te vinden:
 
-[Comparison of free and open-source software licences - Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licences)
+## Licentie - Software
 
+* Het doel is om de software die gebruikt wordt, zal zo veel mogelijk te laten vallen onder een Open Source licentie.
+ 
+## Licentie - Hardare
+
+* Het doel is om de hardware die gebruikt wordt, zo veel mogelijk te laten vallen onder een Open Source licentie zoals [Open Source Hardware Association](https://www.oshwa.org/definition/)
 
 # Definities
 
 * Studenten: Studenten zijn mensen die de Nederlandse en Engelse taal machtig zijn op minimaal A-niveau, die geinteresseerd zijn om een of meerdere cursussen te volgen die in het curicculum zit.
 
-* Associate Degree: (dummy)
+* Associate Degree: volgt nog.
 
-* Curriculum 
+* Opleiding: De opleiding bevat alle cursussen uit het curriculum. Hierbij is het de bedoeling dat een student alle cursussen succesvol wilt behalen, met als doel de opleiding af te ronden een een Associate Degree in Computer Science wilt behalen.
+
+* Opleidingscursussen: De opleiding bevat alle cursussen uit het curriculum. Hierbij is het de bedoeling dat een student alle cursussen succesvol wilt behalen, met zonder dat de student een een Associate Degree in Computer Science ambieert.
+
+* Curriculum: volgt nog.
+
+* Cursus: Een cursus is een subonderdeel van de opleiding. Alle subonderdelen samen vormen de opleiding. 
+
+* OER: Dit zijn Open Educational Resources, zoals gedifineerd is: [Open Educational Resources (OER)](https://en.unesco.org/themes/building-knowledge-societies/oer) van de Unesco.
+
+* Open Source: Open Source is een licentie die valt onder de [The Open Source Definition](https://opensource.org/docs/osd) van de Open Source Initiatieve.
+
+* OOO: Stichting Open Onderwijs Organisatie
+
+* Toelatingsonderzoek: Dit is een onderzoek dat gedaan wordt om te bepalen of de student in aanmerking komt voor de opleiding en het behalen van een Associate Degree in Computer Science.
 
 # Beginkennis
 
-De studenten moeten de Nederlandse en Engelse taal machtig zijn op minimaal A-niveau. 
+## Beginkennis - Opleiding
 
-De studenten moeten minimaal de basisschool hebben afgemaakt of dit niveau bevatten.
+Formele eis voor het volgen van de opleiding en het verkijgen van een Associate Degree in Computer Science:
 
-Iedealiter hebben studenten Havo of MBO niveau, maar met extra werk en inzet kunnen delen van het curriculum of het hele curriculum voldaan worden zonder dit initiele beginniveau.
+* Studenten moeten een MBO4, Havo of VWO diploma bevatten of
+* Als studenten niet de juiste vooropleiding hebben, kunnen ze toegelaten worden op basis van een toelatingsonderzoek. 
 
+## Beginkennis - Cursus
 
+Formele eis voor het volgen van een of meedere cursussen, zonder dat het einddoel is het verkrijgen van een Associate Degree is:
+
+* De studenten moeten de Nederlandse en Engelse taal machtig zijn op minimaal A-niveau. 
+
+* De studenten moeten minimaal de basisschool hebben afgemaakt of dit niveau bevatten.
+
+* Mochten studenten niet aan de vooreisen voldoen, dan kan met extra werk en inzet kunnen curssussen toch gevolgd en voldaan worden het initiele beginniveau.
+
+* Voor sommige cursussen kan een eis zijn dat er reeds een cursus succesvol afgerond is.
