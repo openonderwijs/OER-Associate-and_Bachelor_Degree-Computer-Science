@@ -1,4 +1,4 @@
-# OER Associate Degree in Computer Science
+# OER Associate and Bachelor Degree in Computer Science
 
 * Doelgroep: Nederlandstalige scholen en Nederlangstalige geinteresseerden in computer technologie.
 * Licentie: [Creative Commons — CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
@@ -6,8 +6,13 @@
 * Status: Concept
 * Revisie: Jaarlijks
 * Auteur: Stichting Open Onderwijs Organisatie
+<<<<<<< HEAD
 * Bestandslocatie: [github - openonderwijsorg - OER-Associate-Degree-Computer-Science](https://github.com/openonderwijsorg/OER-Associate-Degree-Computer-Science)
 * Versie: 2020-10-18 10:43:15 
+=======
+* Bestandslocatie: [Editing OER-Associate-and_Bachelor_Degree-Computer-Science/README.md at main · openonderwijsorg/OER-Associate-and_Bachelor_Degree-Computer-Science](https://github.com/openonderwijsorg/OER-Associate-and_Bachelor_Degree-Computer-Science/edit/main/README.md)
+* Versie: 2020-11-03 09:15:15 
+>>>>>>> 700b717d61c4a7c6d92588ccf228321a8f7b6fe7
 
 # Project
 
@@ -31,10 +36,13 @@ Het zal voor een Engelstalig persoon die geen Nederlans kent, makkelijk zijn om 
 * [mvillaloboz/open-source-cs-degree: The Open Source Computer Science Degree](https://github.com/mvillaloboz/open-source-cs-degree)
 * [ForrestKnight/open-source-cs-python: Video discussing this curriculum:](https://github.com/ForrestKnight/open-source-cs-python)
 * [Associate’s Degree in Computer Science | University of the People](https://www.uopeople.edu/programs/cs/degrees/computer-science-associates-degree/)
+* [Bachelor of Science in Computer Science | University of the People](https://www.uopeople.edu/programs/cs/degrees/computer-science-bachelor-degree-2/)
 
 ## Bronnen - Curriculum
 
 * [Curriculumontwikkeling - SLO](https://www.slo.nl/thema/meer/curriculumontwikkeling/)
+* [prof-vh-onderwijs---teksten-website-curriculumontwikkeling-voor-dummies.pdf](https://www.zuyd.nl/binaries/content/assets/zuyd/onderzoek/rapporten--presentaties/prof-vh-onderwijs---teksten-website-curriculumontwikkeling-voor-dummies.pdf)
+* [80ad12982cf0fd6639787b5a8ac48e09.pdf](https://www.denieuwstepabo.nl/uploads/documents/80ad12982cf0fd6639787b5a8ac48e09.pdf)
 
 ## Bronnen - Associate Degree
 
