@@ -6,7 +6,7 @@
 * Status: Concept
 * Revisie: Jaarlijks
 * Auteur: Stichting Open Onderwijs Organisatie
-* Bestandslocatie: [github - diondresschers - OER-Associate-Degree-Computer-Science](https://github.com/openonderwijsorg/OER-Associate-Degree-Computer-Science)
+* Bestandslocatie: [github - openonderwijsorg - OER-Associate-Degree-Computer-Science](https://github.com/openonderwijsorg/OER-Associate-Degree-Computer-Science)
 * Versie: 2020-10-18 10:43:15 
 
 # Project
